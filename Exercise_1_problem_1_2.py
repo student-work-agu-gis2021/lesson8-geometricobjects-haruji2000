@@ -42,6 +42,7 @@ line1 = None
 points=[(45.2,22.34),(100.22,-3.20)]
 line1=create_line_geom(points)
 
+
 # CODE FOR TESTING YOUR SOLUTION
 print(line1)
 
