@@ -119,7 +119,8 @@ def get_centroid(geom):
 # 
 
 #  YOUR CODE HERE 7 to define some objects
-
+points3=[(55.2,20.19),(140.12,-3.20),(30.0,-19.20)]
+poly1=create_poly_geom(points3)
 
 # CODE FOR TESTING YOUR SOLUTION
 centroid = get_centroid(poly1)
